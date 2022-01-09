@@ -76,23 +76,27 @@ public class TicTacToeGame extends javax.swing.JFrame {
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jButton1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jButton1.setFont(new java.awt.Font("Segoe UI", 1, 90)); // NOI18N
+        jButton1.setForeground(new java.awt.Color(204, 153, 255));
+        jButton1.setText("0");
 
-        jButton2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jButton2.setFont(new java.awt.Font("Segoe UI", 1, 90)); // NOI18N
 
-        jButton3.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jButton3.setFont(new java.awt.Font("Segoe UI", 1, 90)); // NOI18N
+        jButton3.setForeground(new java.awt.Color(51, 204, 255));
+        jButton3.setText("X");
 
-        jButton4.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jButton4.setFont(new java.awt.Font("Segoe UI", 1, 90)); // NOI18N
 
-        jButton5.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jButton5.setFont(new java.awt.Font("Segoe UI", 1, 90)); // NOI18N
 
-        jButton6.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jButton6.setFont(new java.awt.Font("Segoe UI", 1, 90)); // NOI18N
 
-        jButton7.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jButton7.setFont(new java.awt.Font("Segoe UI", 1, 90)); // NOI18N
 
-        jButton8.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jButton8.setFont(new java.awt.Font("Segoe UI", 1, 90)); // NOI18N
 
-        jButton9.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jButton9.setFont(new java.awt.Font("Segoe UI", 1, 90)); // NOI18N
 
         jButton10.setBackground(new java.awt.Color(255, 51, 51));
         jButton10.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
