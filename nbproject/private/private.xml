@@ -3,9 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
+            <file>file:/home/rakibul/Software%20Development%20Project/NewProject1/JavaProject1/src/javaproject1/TicTacToeGame.java</file>
+=======
             <file>file:/C:/My%20All%20Data/Codeing/java/Project/project-1/JavaProject1/src/javaproject1/Login.java</file>
             <file>file:/C:/My%20All%20Data/Codeing/java/Project/project-1/JavaProject1/src/javaproject1/TicTacToeGame.java</file>
             <file>file:/C:/My%20All%20Data/Codeing/java/Project/project-1/JavaProject1/src/javaproject1/JavaProject1.java</file>
+>>>>>>> e75aaafd6205add93421c696b63b65ed721c77ee
         </group>
     </open-files>
 </project-private>
